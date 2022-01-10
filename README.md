@@ -33,7 +33,7 @@ The app is location enabled using GPS data from the device or you can set up the
 ## What I learnt
 
 * Apply Delegate Design Pattern
-* Appy best practices in swift: Protocols, Extensions, Using Data Structs, Swift Guard, Closures and Completion Handlers etc
+* Apply best practices in swift: Protocols, Extensions, Using Data Structs, Swift Guard, Closures and Completion Handlers etc
 * Networking using URLSession and making Https requests
 * Parsing JSON with the native Encodable and Decodable protocols. 
 * Using Grand Central Dispatch to fetch the main thread.
